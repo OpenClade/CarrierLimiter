@@ -1,0 +1,7 @@
+name: CarrierLimiter
+description: Just a blocklimiter
+main: ru.openclade.Main
+version: 1.0.0
+author: OpenClade
+commands: 
+   myblocks:

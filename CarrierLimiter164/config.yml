@@ -1,0 +1,13 @@
+connect:
+   host: 'localhost'
+   port: 3306
+   database: 'carrierplugin'
+   username: 'root'
+   password: ''
+config:
+   limit: 5
+   blockid: 5
+   blockdata: 0
+ 
+   
+   
